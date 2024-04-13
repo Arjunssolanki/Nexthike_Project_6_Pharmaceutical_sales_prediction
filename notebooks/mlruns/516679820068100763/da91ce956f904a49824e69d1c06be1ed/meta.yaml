@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/project/notebooks/mlruns/516679820068100763/da91ce956f904a49824e69d1c06be1ed/artifacts
+end_time: 1712651810327
+entry_point_name: ''
+experiment_id: '516679820068100763'
+lifecycle_stage: active
+run_id: da91ce956f904a49824e69d1c06be1ed
+run_name: funny-bug-379
+run_uuid: da91ce956f904a49824e69d1c06be1ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712651623611
+status: 3
+tags: []
+user_id: Lenovo
